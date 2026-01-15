@@ -1,0 +1,83 @@
+banner,banner_characters,is_rerun,avg_views,top_views_character,revenue,meta_relevance_avg,top_meta_character,dominant_character,dominant_reason
+Venti,venti,0,4593318.0,venti,30632752.0,2.216666666666667,venti,venti,meta
+Klee,klee,0,14247890.0,klee,22750080.0,2.5,klee,klee,meta
+Tartaglia,tartaglia,0,161981.0,tartaglia,13443619.0,1.9,tartaglia,tartaglia,meta
+Zhongli,zhongli,0,35127330.0,zhongli,16264892.0,3.5,zhongli,zhongli,meta
+Albedo,albedo,0,8203682.0,albedo,11816107.0,2.5,albedo,albedo,meta
+Ganyu,ganyu,0,8504740.0,ganyu,15669918.0,1.95,ganyu,ganyu,meta
+Xiao,xiao,0,14156109.0,xiao,13145115.0,2.5,xiao,xiao,meta
+Keqing,keqing,0,10862210.0,keqing,9505798.0,1.5,keqing,keqing,views
+Hu Tao,hu tao,0,21330822.0,hu tao,12481634.0,2.5,hu tao,hu tao,meta
+Venti (Rerun),venti,1,4593318.0,venti,16614209.0,2.216666666666667,venti,venti,meta
+Tartaglia (Rerun),tartaglia,1,161981.0,tartaglia,6965445.0,1.9,tartaglia,tartaglia,meta
+Zhongli (Rerun),zhongli,1,35127330.0,zhongli,10215165.0,3.5,zhongli,zhongli,meta
+Eula,eula,0,25160120.0,eula,12619390.0,1.5,eula,eula,views
+Klee (Rerun),klee,1,14247890.0,klee,7006180.0,2.5,klee,klee,meta
+Kazuha,kazuha,0,18832425.0,kazuha,9807112.0,4.0,kazuha,kazuha,meta
+Ayaka,ayaka,0,15822985.0,ayaka,16451006.0,2.5,ayaka,ayaka,meta
+Yoimiya,yoimiya,0,12431567.0,yoimiya,8615144.0,2.0,yoimiya,yoimiya,meta
+Raiden,raiden,0,20558966.0,raiden,33020905.0,3.425,raiden,raiden,meta
+Kokomi,kokomi,0,9907253.0,kokomi,7020975.0,2.45,kokomi,kokomi,meta
+Tartaglia (2nd Rerun),tartaglia,1,161981.0,tartaglia,7785438.0,1.9,tartaglia,tartaglia,meta
+Hu Tao (Rerun),hu tao,1,21330822.0,hu tao,25226952.0,2.5,hu tao,hu tao,meta
+Albedo & Eula (Rerun),"albedo, eula",1,16681901.0,eula,17026066.0,2.0,albedo,albedo,meta
+Itto,itto,0,8152775.0,itto,13404072.0,2.0,itto,itto,meta
+Shenhe & Xiao (Rerun),"shenhe, xiao",1,10483869.0,xiao,16994406.0,3.0,shenhe,shenhe,meta
+Zhongli & Ganyu (2nd & 1st Rerun),"zhongli, ganyu",1,21816035.0,zhongli,26780298.0,2.725,zhongli,zhongli,meta
+Yae Miko,yae miko,0,7167009.0,yae miko,15110264.0,3.0,yae miko,yae miko,meta
+Shougun & Kokomi (Rerun),"raiden, kokomi",1,15233109.5,raiden,33560259.0,2.9375,raiden,raiden,meta
+Ayato & Venti (2nd Rerun),"ayato, venti",1,5217395.0,ayato,22767455.0,2.1083333333333334,venti,venti,meta
+Ayaka (Rerun),ayaka,1,15822985.0,ayaka,35939066.0,2.5,ayaka,ayaka,meta
+Yelan & Xiao (2nd Rerun),"yelan, xiao",1,10522751.5,xiao,32177144.0,3.25,yelan,yelan,meta
+Itto (Rerun),itto,1,8152775.0,itto,12586764.0,2.0,itto,itto,meta
+Kazuha & Klee (1st & 2nd Rerun),"kazuha, klee",1,16540157.5,kazuha,24808479.0,3.25,kazuha,kazuha,meta
+Yoimiya (Rerun),yoimiya,1,12431567.0,yoimiya,14333266.0,2.0,yoimiya,yoimiya,meta
+Tighnari & Zhongli (3rd Rerun),"tighnari, zhongli",1,28483050.5,zhongli,19068372.0,2.4625,zhongli,zhongli,meta
+Ganyu & Kokomi (2nd Rerun),"ganyu, kokomi",1,9205996.5,kokomi,15681840.0,2.2,kokomi,kokomi,meta
+Cyno & Venti (3rd Rerun),"cyno, venti",1,4059755.0,venti,19052023.0,2.1083333333333334,venti,venti,meta
+Nilou & Albedo (2nd Rerun),"nilou, albedo",1,5690115.5,albedo,15731680.0,3.15,nilou,nilou,meta
+Nahida & Yoimiya (2nd Rerun),"nahida, yoimiya",1,10356821.5,yoimiya,34017290.0,2.825,nahida,nahida,meta
+Tartaglia & Yae Miko (3rd & 1st Rerun),"tartaglia, yae miko",1,3664495.0,yae miko,18437409.0,2.45,yae miko,yae miko,meta
+Wanderer & Itto (2nd Rerun),"wanderer, itto",1,7996920.5,itto,27126505.0,2.0,itto,itto,meta
+Shougun & Ayato (2nd & 1st Rerun),"raiden, ayato",1,13200219.0,raiden,37919130.0,2.7125,raiden,raiden,meta
+Alhaitham & Xiao (3rd Rerun),"alhaitham, xiao",1,13735117.0,xiao,18361860.0,2.75,alhaitham,alhaitham,meta
+Hu Tao & Yelan (2nd & 1st Rerun),"hu tao, yelan",1,14110108.0,hu tao,46556153.0,3.25,yelan,yelan,meta
+Dehya & Cyno (1st Rerun),"dehya, cyno",1,2804736.5,cyno,13198046.0,1.4083333333333334,cyno,cyno,meta
+Ayaka & Shenhe (2nd & 1st Rerun),"ayaka, shenhe",1,11317307.0,ayaka,35962024.0,3.0,shenhe,shenhe,meta
+Nahida & Nilou (1st Rerun),"nahida, nilou",1,5729312.5,nahida,28019235.0,3.7249999999999996,nilou,nilou,meta
+Baizhu & Ganyu (3rd Rerun),"baizhu, ganyu",1,5943820.0,ganyu,9108580.0,2.725,baizhu,baizhu,meta
+Yoimiya & Yae Miko (3rd & 2nd Rerun),"yoimiya, yae miko",1,9799288.0,yoimiya,9154188.0,2.5,yae miko,yae miko,meta
+Alhaitham & Kazuha (1st & 2nd Rerun),"alhaitham, kazuha",1,16073275.0,kazuha,17459928.0,3.5,kazuha,kazuha,meta
+Eula & Klee (2nd & 3rd Rerun),"eula, klee",1,19704005.0,eula,6458188.0,2.0,klee,klee,meta
+Kokomi & Wanderer (3rd & 1st Rerun),"kokomi, wanderer",1,8874159.5,kokomi,9129631.0,2.225,kokomi,kokomi,meta
+Lyney & Yelan (2nd Rerun),"lyney, yelan",1,4767666.5,yelan,11473539.0,3.25,yelan,yelan,meta
+Zhongli & Tartaglia (4th Rerun),"zhongli, tartaglia",1,17644655.5,zhongli,9039617.0,2.7,zhongli,zhongli,meta
+Neuvillette & Hu Tao (3rd Rerun),"neuvillette, hu tao",1,13969329.0,hu tao,13832472.0,3.25,neuvillette,neuvillette,meta
+Wriothesley & Venti (4th Rerun),"wriothesley, venti",1,3911668.5,venti,11730045.0,2.6083333333333334,wriothesley,wriothesley,meta
+Furina & Baizhu (1st Rerun),"furina, baizhu",1,8841867.5,furina,29234126.0,4.0625,furina,furina,meta
+Cyno & Ayato (2nd Rerun),"cyno, ayato",1,4683832.0,ayato,8296003.0,2.0,ayato,ayato,meta
+Navia & Ayaka (3rd Rerun),"navia, ayaka",1,9842792.0,ayaka,18269797.0,2.75,navia,navia,meta
+Shougun & Yoimiya (3rd & 4th Rerun),"raiden, yoimiya",1,16495266.5,raiden,17085835.0,2.7125,raiden,raiden,meta
+Xianyun & Nahida (2nd Rerun),"xianyun, nahida",1,6792226.5,nahida,25670109.0,3.325,nahida,nahida,meta
+Yae Miko & Xiao (3rd & 4th Rerun),"yae miko, xiao",1,10661559.0,xiao,5267086.0,2.75,yae miko,yae miko,meta
+Hu Tao & Nahida (Rerun),"hu tao, nahida",1,14806449.0,hu tao,10874330.3333335,3.075,nahida,nahida,meta
+Chasca & Lyney (Rerun),"chasca, lyney",1,1699462.5,lyney,13101950.924731,3.0,chasca,chasca,meta
+Neuvillette & Zhongli (Rerun),"neuvillette, zhongli",1,20867583.0,zhongli,15403700.741935,3.75,neuvillette,neuvillette,meta
+Citlali & Mavuika (Rerun),"citlali, mavuika",1,847976.0,mavuika,29387745.5483866,4.5625,mavuika,mavuika,meta
+Arlecchino & Clorinde(Rerun),"arlecchino, clorinde",1,6010042.0,arlecchino,21015823.308755,3.25,arlecchino,arlecchino,meta
+Mizuki & Sigewinne (Rerun),"mizuki, sigewinne",1,1157889.0,sigewinne,11386421.1428573,1.9625,sigewinne,sigewinne,meta
+Furina & Wriothesley (Rerun),"furina, wriothesley",1,8765427.0,furina,13330000.0,3.8125,furina,furina,meta
+Varesa & Xianyun (Rerun),"varesa, xianyun",1,3045495.0,xianyun,9104333.3333336,3.5,varesa,varesa,meta
+Venti & Xilonen (Rerun),"venti, xilonen",1,2953293.5,venti,9280185.5698924,3.3583333333333334,xilonen,xilonen,meta
+Escoffier & Navia (Rerun),"escoffier, navia",1,3862599.0,navia,12042094.419355,3.45,escoffier,escoffier,meta
+Kinich & Raiden (Rerun),"kinich, raiden",1,20558966.0,raiden,18102053.3440852,3.4625,kinich,kinich,meta
+Shenhe & Skirk (Rerun),"shenhe, skirk",1,3555707.5,shenhe,15743106.6881716,3.75,skirk,skirk,meta
+Emilie & Mavuika (Rerun),"emilie, mavuika",1,1359238.0,mavuika,11242414.4838712,4.0625,mavuika,mavuika,meta
+Citlali & Ineffa (Rerun),"citlali, ineffa",1,584407.5,ineffa,8917254.4516132,4.325,citlali,citlali,meta
+Chasca & Mualani (Rerun),"chasca, mualani",1,1441463.0,mualani,16265874.4177005,3.5,chasca,chasca,meta
+Lauma & Nahida (Rerun),"lauma, nahida",1,4440292.0,nahida,12008333.3333334,4.1375,lauma,lauma,meta
+Flins & Yelan (Rerun),"flins, yelan",1,3830440.5,yelan,1478897.4623652,4.25,flins,flins,meta
+Furina & Nefer (Rerun),"furina, nefer",1,7420216.0,furina,13065952.2903228,4.3125,furina,furina,meta
+Arlecchino & Zhongli (Rerun),"arlecchino, zhongli",1,21799038.0,zhongli,15213726.6451612,3.5,arlecchino,arlecchino,meta
+Durin & Venti (Rerun),"durin, venti",1,2366817.0,venti,13358066.6129034,3.3583333333333334,durin,durin,meta
+Varesa & Xilonen (Rerun),"varesa, xilonen",1,1050941.0,xilonen,10538707.7419355,4.25,xilonen,xilonen,meta

@@ -1,0 +1,155 @@
+name,role,game8_score,genshin.gg_score,relevance_mean,relevance_mean_adj,game8_tier,genshin.gg_tier
+Columbina,Sub-DPS,5.0,,5.0,4.75,SS,
+Columbina,Support,5.0,,5.0,4.75,SS,
+Furina,Support,5.0,,5.0,4.75,SS,
+Lauma,Sub-DPS,5.0,,5.0,4.75,SS,
+Mavuika,Sub-DPS,5.0,,5.0,4.75,SS,
+Bennett,Support,5.0,4.0,4.5,4.5,SS,S
+Citlali,Support,5.0,4.0,4.5,4.5,SS,S
+Durin,Sub-DPS,5.0,4.0,4.5,4.5,SS,S
+Flins,Main DPS,5.0,4.0,4.5,4.5,SS,S
+Furina,Sub-DPS,5.0,4.0,4.5,4.5,SS,S
+Ineffa,Sub-DPS,5.0,4.0,4.5,4.5,SS,S
+Lauma,Support,5.0,4.0,4.5,4.5,SS,S
+Mavuika,Main DPS,5.0,4.0,4.5,4.5,SS,S
+Xilonen,Support,5.0,4.0,4.5,4.5,SS,S
+Chevreuse,Support,5.0,3.0,4.0,4.0,SS,A
+Escoffier,Sub-DPS,5.0,3.0,4.0,4.0,SS,A
+Fischl,Sub-DPS,5.0,3.0,4.0,4.0,SS,A
+Iansan,Support,5.0,3.0,4.0,4.0,SS,A
+Kazuha,Support,4.0,4.0,4.0,4.0,S,S
+Nefer,Main DPS,5.0,3.0,4.0,4.0,SS,A
+Neuvillette,Main DPS,4.0,4.0,4.0,4.0,S,S
+Raiden,Sub-DPS,4.0,4.0,4.0,4.0,S,S
+Skirk,Main DPS,5.0,3.0,4.0,4.0,SS,A
+Varesa,Main DPS,5.0,3.0,4.0,4.0,SS,A
+Yelan,Sub-DPS,4.0,4.0,4.0,4.0,S,S
+Escoffier,Support,4.0,,4.0,3.8,S,
+Ineffa,Support,4.0,,4.0,3.8,S,
+Nahida,Support,4.0,,4.0,3.8,S,
+Nilou,Sub-DPS,4.0,,4.0,3.8,S,
+Nilou,Support,,4.0,4.0,3.8,,S
+Ororon,Support,,4.0,4.0,3.8,,S
+Shinobu,Sub-DPS,4.0,3.0,4.0,3.8,S,A
+Arlecchino,Main DPS,4.0,3.0,3.5,3.5,S,A
+Baizhu,Support,4.0,3.0,3.5,3.5,S,A
+Chasca,Main DPS,4.0,3.0,3.5,3.5,S,A
+Emilie,Sub-DPS,4.0,3.0,3.5,3.5,S,A
+Kinich,Main DPS,4.0,3.0,3.5,3.5,S,A
+Mualani,Main DPS,4.0,3.0,3.5,3.5,S,A
+Nahida,Sub-DPS,4.0,3.0,3.5,3.5,S,A
+Shenhe,Support,4.0,3.0,3.5,3.5,S,A
+Sucrose,Support,5.0,2.0,3.5,3.5,SS,B
+Xiangling,Sub-DPS,4.0,3.0,3.5,3.5,S,A
+Xingqiu,Sub-DPS,4.0,3.0,3.5,3.5,S,A
+Zhongli,Support,4.0,3.0,3.5,3.5,S,A
+Alhaitham,Main DPS,3.0,3.0,3.0,3.0,A,A
+Chiori,Sub-DPS,3.0,3.0,3.0,3.0,A,A
+Clorinde,Main DPS,3.0,3.0,3.0,3.0,A,A
+Jean,Support,3.0,3.0,3.0,3.0,A,A
+Kokomi,Support,3.0,3.0,3.0,3.0,A,A
+Mona,Support,4.0,2.0,3.0,3.0,S,B
+Navia,Main DPS,3.0,3.0,3.0,3.0,A,A
+Wriothesley,Main DPS,3.0,3.0,3.0,3.0,A,A
+Xianyun,Support,4.0,2.0,3.0,3.0,S,B
+Yae Miko,Sub-DPS,3.0,3.0,3.0,3.0,A,A
+Aino,Sub-DPS,3.0,,3.0,2.8499999999999996,A,
+Aino,Support,,3.0,3.0,2.8499999999999996,,A
+Mona,Sub-DPS,3.0,,3.0,2.8499999999999996,A,
+Ororon,Sub-DPS,3.0,,3.0,2.8499999999999996,A,
+Raiden,Main DPS,3.0,,3.0,2.8499999999999996,A,
+Rosaria,Sub-DPS,3.0,,3.0,2.8499999999999996,A,
+Shinobu,Support,3.0,,3.0,2.8499999999999996,A,
+Sucrose,Sub-DPS,3.0,,3.0,2.8499999999999996,A,
+Venti,Main DPS,3.0,,3.0,2.8499999999999996,A,
+Venti,Sub-DPS,3.0,,3.0,2.8499999999999996,A,
+Albedo,Sub-DPS,4.0,1.0,2.5,2.5,S,C
+Ayaka,Main DPS,3.0,2.0,2.5,2.5,A,B
+Charlotte,Support,3.0,2.0,2.5,2.5,A,B
+Faruzan,Support,3.0,2.0,2.5,2.5,A,B
+Hu Tao,Main DPS,3.0,2.0,2.5,2.5,A,B
+Klee,Main DPS,3.0,2.0,2.5,2.5,A,B
+Lan Yan,Support,3.0,2.0,2.5,2.5,A,B
+Lyney,Main DPS,3.0,2.0,2.5,2.5,A,B
+Sigewinne,Support,2.0,3.0,2.5,2.5,B,A
+Xiao,Main DPS,3.0,2.0,2.5,2.5,A,B
+Yaoyao,Support,3.0,2.0,2.5,2.5,A,B
+Ayato,Main DPS,2.0,2.0,2.0,2.0,B,B
+Cyno,Main DPS,2.0,2.0,2.0,2.0,B,B
+Diona,Support,3.0,1.0,2.0,2.0,A,C
+Gaming,Main DPS,3.0,1.0,2.0,2.0,A,C
+Ganyu,Main DPS,2.0,2.0,2.0,2.0,B,B
+Itto,Main DPS,2.0,2.0,2.0,2.0,B,B
+Kirara,Support,3.0,1.0,2.0,2.0,A,C
+Layla,Support,3.0,1.0,2.0,2.0,A,C
+Sara,Support,2.0,2.0,2.0,2.0,B,B
+Wanderer,Main DPS,2.0,2.0,2.0,2.0,B,B
+Yoimiya,Main DPS,2.0,2.0,2.0,2.0,B,B
+Collei,Sub-DPS,2.0,,2.0,1.9,B,
+Ganyu,Sub-DPS,2.0,,2.0,1.9,B,
+Ifa,Main DPS,2.0,,2.0,1.9,B,
+Jahoda,Sub-DPS,2.0,,2.0,1.9,B,
+Kokomi,Sub-DPS,2.0,,2.0,1.9,B,
+Lynette,Sub-DPS,2.0,,2.0,1.9,B,
+Mizuki,Support,2.0,,2.0,1.9,B,
+Sethos,Main DPS,2.0,,2.0,1.9,B,
+Tartaglia,Main DPS,2.0,2.0,2.0,1.9,B,B
+Thoma,Sub-DPS,2.0,,2.0,1.9,B,
+Tighnari,Main DPS,2.0,,2.0,1.9,B,
+Traveler (Dendro),Sub-DPS,2.0,,2.0,1.9,B,
+Traveler (Pyro),Sub-DPS,2.0,,2.0,1.9,B,
+Beidou,Sub-DPS,2.0,1.0,1.5,1.5,B,C
+Dahlia,Support,1.0,2.0,1.5,1.5,C,B
+Dehya,Support,2.0,1.0,1.5,1.5,B,C
+Diluc,Main DPS,2.0,1.0,1.5,1.5,B,C
+Eula,Main DPS,1.0,2.0,1.5,1.5,C,B
+Gorou,Support,2.0,1.0,1.5,1.5,B,C
+Jahoda,Support,2.0,1.0,1.5,1.5,B,C
+Kaeya,Sub-DPS,2.0,1.0,1.5,1.5,B,C
+Keqing,Main DPS,1.0,2.0,1.5,1.5,C,B
+Razor,Main DPS,3.0,0.0,1.5,1.5,A,D
+Thoma,Support,2.0,1.0,1.5,1.5,B,C
+Barbara,Support,1.0,1.0,1.0,1.0,C,C
+Dori,Support,1.0,1.0,1.0,1.0,C,C
+Kachina,Sub-DPS,1.0,1.0,1.0,1.0,C,C
+Mika,Support,1.0,1.0,1.0,1.0,C,C
+Noelle,Main DPS,1.0,1.0,1.0,1.0,C,C
+Qiqi,Support,1.0,1.0,1.0,1.0,C,C
+Rosaria,Support,1.0,1.0,1.0,1.0,C,C
+Yun Jin,Support,2.0,0.0,1.0,1.0,B,D
+Chongyun,Sub-DPS,1.0,,1.0,0.95,C,
+Collei,Support,,1.0,1.0,0.95,,C
+Dehya,Sub-DPS,1.0,,1.0,0.95,C,
+Heizou,Main DPS,1.0,,1.0,0.95,C,
+Ifa,Sub-DPS,,1.0,1.0,0.95,,C
+Lisa,Sub-DPS,1.0,,1.0,0.95,C,
+Mizuki,Main DPS,1.0,1.0,1.0,0.95,C,C
+Sayu,Sub-DPS,1.0,,1.0,0.95,C,
+Tighnari,Sub-DPS,,1.0,1.0,0.95,,C
+Traveler (Dendro),Support,,1.0,1.0,0.95,,C
+Traveler (Pyro),Support,,1.0,1.0,0.95,,C
+Venti,Support,,1.0,1.0,0.95,,C
+Candace,Support,1.0,0.0,0.5,0.5,C,D
+Kaveh,Main DPS,1.0,0.0,0.5,0.5,C,D
+Sayu,Support,1.0,0.0,0.5,0.5,C,D
+Traveler (Electro),Support,1.0,0.0,0.5,0.5,C,D
+Yanfei,Main DPS,1.0,0.0,0.5,0.5,C,D
+Aloy,Main DPS,0.0,,0.0,0.0,D,
+Aloy,Sub-DPS,,0.0,0.0,0.0,,D
+Amber,Sub-DPS,0.0,0.0,0.0,0.0,D,D
+Chongyun,Support,0.0,0.0,0.0,0.0,D,D
+Dehya,Main DPS,0.0,,0.0,0.0,D,
+Freminet,Main DPS,0.0,0.0,0.0,0.0,D,D
+Heizou,Sub-DPS,,0.0,0.0,0.0,,D
+Lisa,Support,0.0,0.0,0.0,0.0,D,D
+Lynette,Support,,0.0,0.0,0.0,,D
+Ningguang,Main DPS,0.0,0.0,0.0,0.0,D,D
+Noelle,Support,0.0,,0.0,0.0,D,
+Sethos,Sub-DPS,,0.0,0.0,0.0,,D
+Traveler (Anemo),Sub-DPS,0.0,0.0,0.0,0.0,D,D
+Traveler (Geo),Sub-DPS,0.0,0.0,0.0,0.0,D,D
+Traveler (Hydro),Sub-DPS,0.0,,0.0,0.0,D,
+Traveler (Hydro),Support,,0.0,0.0,0.0,,D
+Xinyan,Main DPS,0.0,,0.0,0.0,D,
+Xinyan,Sub-DPS,0.0,,0.0,0.0,D,
+Xinyan,Support,0.0,0.0,0.0,0.0,D,D

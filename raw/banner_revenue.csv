@@ -1,0 +1,83 @@
+character_name,element,start_date,end_date,revenue_total,days_observed,source,crawled_at
+Venti,Anemo,2020-09-28,2020-10-19,30632752.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Klee,Pyro,2020-10-20,2020-11-10,22750080.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Tartaglia,Hydro,2020-11-11,2020-11-30,13443619.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Zhongli,Geo,2020-12-01,2020-12-22,16264892.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Albedo,Geo,2020-12-23,2021-01-12,11816107.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Ganyu,Cryo,2021-01-13,2021-02-02,15669918.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Xiao,Anemo,2021-02-03,2021-02-17,13145115.0,15.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Keqing,Electro,2021-02-18,2021-03-02,9505798.0,13.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Hu Tao,Pyro,2021-03-03,2021-03-16,12481634.0,14.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Venti (Rerun),Anemo,2021-03-17,2021-04-06,16614209.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Tartaglia (Rerun),Hydro,2021-04-07,2021-04-27,6965445.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Zhongli (Rerun),Geo,2021-04-28,2021-05-18,10215165.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Eula,Cryo,2021-05-19,2021-06-08,12619390.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Klee (Rerun),Pyro,2021-06-09,2021-06-29,7006180.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Kazuha,Anemo,2021-06-30,2021-07-20,9807112.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Ayaka,Cryo,2021-07-21,2021-08-10,16451006.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Yoimiya,Pyro,2021-08-11,2021-08-31,8615144.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Raiden,Electro,2021-09-01,2021-09-20,33020905.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Kokomi,Hydro,2021-09-21,2021-10-12,7020975.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Tartaglia (2nd Rerun),Hydro,2021-10-13,2021-11-01,7785438.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Hu Tao (Rerun),Pyro,2021-11-02,2021-11-23,25226952.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Albedo & Eula (Rerun),2.0 Double Banner,2021-11-24,2021-12-13,17026066.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Itto,Geo,2021-12-14,2022-01-04,13404072.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Shenhe & Xiao (Rerun),2.0 Double Banner,2022-01-05,2022-01-25,16994406.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Zhongli & Ganyu (2nd & 1st Rerun),2.0 Double Banner,2022-01-25,2022-02-15,26780298.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Yae Miko,Electro,2022-02-16,2022-03-07,15110264.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Shougun & Kokomi (Rerun),2.0 Double Banner,2022-03-08,2022-03-29,33560259.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Ayato & Venti (2nd Rerun),2.0 Double Banner,2022-03-30,2022-04-18,22767455.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Ayaka (Rerun),Cryo,2022-04-19,2022-05-30,35939066.0,42.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Yelan & Xiao (2nd Rerun),2.0 Double Banner,2022-05-31,2022-06-20,32177144.0,21.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Itto (Rerun),Geo,2022-06-21,2022-07-12,12586764.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Kazuha & Klee (1st & 2nd Rerun),2.0 Double Banner,2022-07-13,2022-08-01,24808479.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Yoimiya (Rerun),Pyro,2022-08-02,2022-08-23,14333266.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Tighnari & Zhongli (3rd Rerun),3.0 Double Banner,2022-08-24,2022-09-08,19068372.0,16.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Ganyu & Kokomi (2nd Rerun),3.0 Double Banner,2022-09-09,2022-09-27,15681840.0,19.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Cyno & Venti (3rd Rerun),3.0 Double Banner,2022-09-28,2022-10-13,19052023.0,16.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Nilou & Albedo (2nd Rerun),3.0 Double Banner,2022-10-14,2022-11-01,15731680.0,19.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Nahida & Yoimiya (2nd Rerun),3.0 Double Banner,2022-11-02,2022-11-17,34017290.0,16.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Tartaglia & Yae Miko (3rd & 1st Rerun),3.0 Double Banner,2022-11-18,2022-12-06,18437409.0,19.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Wanderer & Itto (2nd Rerun),3.0 Double Banner,2022-12-07,2022-12-26,27126505.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Shougun & Ayato (2nd & 1st Rerun),3.0 Double Banner,2022-12-27,2023-01-17,37919130.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Alhaitham & Xiao (3rd Rerun),3.0 Double Banner,2023-01-18,2023-02-06,18361860.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Hu Tao & Yelan (2nd & 1st Rerun),3.0 Double Banner,2023-02-07,2023-02-28,46556153.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Dehya & Cyno (1st Rerun),3.0 Double Banner,2023-03-01,2023-03-20,13198046.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Ayaka & Shenhe (2nd & 1st Rerun),3.0 Double Banner,2023-03-21,2023-04-11,35962024.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Nahida & Nilou (1st Rerun),3.0 Double Banner,2023-04-12,2023-05-01,28019235.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Baizhu & Ganyu (3rd Rerun),3.0 Double Banner,2023-05-02,2023-05-23,9108580.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Yoimiya & Yae Miko (3rd & 2nd Rerun),3.0 Double Banner,2023-05-24,2023-06-12,9154188.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Alhaitham & Kazuha (1st & 2nd Rerun),3.0 Double Banner,2023-06-13,2023-07-04,17459928.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Eula & Klee (2nd & 3rd Rerun),3.0 Double Banner,2023-07-05,2023-07-24,6458188.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Kokomi & Wanderer (3rd & 1st Rerun),3.0 Double Banner,2023-07-25,2023-08-15,9129631.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Lyney & Yelan (2nd Rerun),4.0 Double Banner,2023-08-16,2023-09-04,11473539.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Zhongli & Tartaglia (4th Rerun),4.0 Double Banner,2023-09-05,2023-09-26,9039617.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Neuvillette & Hu Tao (3rd Rerun),4.0 Double Banner,2023-09-27,2023-10-16,13832472.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Wriothesley & Venti (4th Rerun),4.0 Double Banner,2023-10-17,2023-11-07,11730045.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Furina & Baizhu (1st Rerun),4.0 Double Banner,2023-11-08,2023-11-27,29234126.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Cyno & Ayato (2nd Rerun),4.0 Double Banner,2023-11-28,2023-12-19,8296003.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Navia & Ayaka (3rd Rerun),4.0 Double Banner,2023-12-20,2024-01-08,18269797.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Shougun & Yoimiya (3rd & 4th Rerun),4.0 Double Banner,2024-01-09,2024-01-30,17085835.0,22.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Xianyun & Nahida (2nd Rerun),4.0 Double Banner,2024-01-31,2024-02-19,25670109.0,20.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Yae Miko & Xiao (3rd & 4th Rerun),4.0 Double Banner,2024-02-20,2024-02-23,5267086.0,4.0,real_flourish,2026-01-14T00:23:07.059124+00:00
+Hu Tao & Nahida (Rerun),,2024-10-29,2024-11-19,10874330.3333335,22.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Chasca & Lyney (Rerun),,2024-11-20,2024-12-10,13101950.924731,21.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Neuvillette & Zhongli (Rerun),,2024-12-10,2024-12-31,15403700.741935,22.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Citlali & Mavuika (Rerun),,2025-01-01,2025-01-21,29387745.5483866,21.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Arlecchino & Clorinde(Rerun),,2025-01-21,2025-02-11,21015823.308755,22.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Mizuki & Sigewinne (Rerun),,2025-02-12,2025-03-04,11386421.1428573,21.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Furina & Wriothesley (Rerun),,2025-03-04,2025-03-25,13330000.0,22.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Varesa & Xianyun (Rerun),,2025-03-26,2025-04-15,9104333.3333336,21.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Venti & Xilonen (Rerun),,2025-04-15,2025-05-06,9280185.5698924,22.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Escoffier & Navia (Rerun),,2025-05-07,2025-05-27,12042094.419355,21.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Kinich & Raiden (Rerun),,2025-05-27,2025-06-17,18102053.3440852,22.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Shenhe & Skirk (Rerun),,2025-06-18,2025-07-08,15743106.6881716,21.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Emilie & Mavuika (Rerun),,2025-07-08,2025-07-29,11242414.4838712,22.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Citlali & Ineffa (Rerun),,2025-07-30,2025-08-19,8917254.4516132,21.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Chasca & Mualani (Rerun),,2025-08-19,2025-09-09,16265874.4177005,22.0,approx_split_long_banner,2026-01-14T00:14:23.007498+00:00
+Lauma & Nahida (Rerun),,2025-09-10,2025-09-30,12008333.3333334,21.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Flins & Yelan (Rerun),,2025-09-30,2025-10-21,1478897.4623652,22.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Furina & Nefer (Rerun),,2025-10-22,2025-11-11,13065952.2903228,21.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Arlecchino & Zhongli (Rerun),,2025-11-11,2025-12-02,15213726.6451612,22.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Durin & Venti (Rerun),,2025-12-03,2025-12-23,13358066.6129034,21.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
+Varesa & Xilonen (Rerun),,2025-12-23,2026-01-13,10538707.7419355,22.0,ennead_monthly_allocated_to_game8_banners,2026-01-14T00:14:23.007498+00:00
